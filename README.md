@@ -20,7 +20,7 @@
 
 #  Medium
 
-[<img src = "https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width = "100" height = "60" >](https://medium.com/@)
+[<img src = "https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width = "100" height = "60" >](https://medium.com/@dilarakdeniz)
 
 ##  Tech I Use
 
