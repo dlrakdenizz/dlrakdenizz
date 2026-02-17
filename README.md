@@ -1,30 +1,48 @@
-<h1 align ="middle">Hi there 👋 I'm Dilara</h1>
+#_merhaba_ben_dilara 👋
+
 <p align="left">
-🪐 I'm currently developing iOS Apps with Swift 
+  <img src="https://img.shields.io/badge/ios_developer-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/ai_builder-555555?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </p>
+
+[cite_start]Fikirleri Swift ile kodlara, hayalleri App Store'da yayında olan ürünlere dönüştürüyorum[cite: 9, 10]. [cite_start]Bilgisayar Mühendisliği geçmişimi, yapay zekanın sınırsız imkanlarıyla birleştirip modern mobil deneyimler tasarlamaya odaklıyım.
+
+---
+
+###_şu_an_neler_inşa_ediyorum
+
+* **AITunes:** Yapay zeka ile müzik üretiminin mobil hali.
+* **Foton AI:** AI tabanlı fotoğraf nesli ve görüntü işleme dünyası.
+* [cite_start]**[ChatAI](https://apps.apple.com/tr/app/chatai-chat-with-ai-experts/id6749398918):** Gemini 2.0 tabanlı, 34 farklı uzman yapay zeka karakteriyle sohbet deneyimi[cite: 65, 67, 73].
+
+---
+
+###_teknoloji_mutfağım
+
 <p align="left">
-🪐 Interested in Mobile UI Design
+  <a href="#"><img src="https://skillicons.dev/icons?i=swift,apple,firebase,graphql,git,github,figma" /></a>
 </p>
-<br>
 
-<div style = "display: flex: flex-direction: row; justify-content: space-between"> 
-<p align="center">
+> [cite_start]**stack_focus:** Swift, SwiftUI, Combine, SwiftData, Core Animation[cite: 10, 62, 64].
+
+---
+
+###_akademi_ve_vizyon
+
+[cite_start]Mühendislik eğitimimi **bölüm üçüncüsü** olarak tamamladım; bu disiplini TÜBİTAK destekli projelerde liderlik yaparak pratik bir vizyona dönüştürdüm[cite: 8, 49, 74, 76]. [cite_start]Temiz kod (SOLID) ve sürdürülebilir mimariler (MVVM) vazgeçilmezim.
+
+---
+
+###_bağlantıda_kalalım
+
+<p align="left">
+<a href="https://www.linkedin.com/in/dilarakdeniz/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@dilarakdeniz"><img src="https://img.shields.io/badge/medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+<a href="mailto:dilarakdeniz15013@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
+
+<br />
+
 <p align="center">
- </p>
-
-# Contact Me
-  
-[<img src = "https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width = "60" height = "60" align="left" >](https://www.linkedin.com/in/dilara-akdeniz-596a44232/)
-[<img src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width = "60" height = "60" align="center">](https://www.instagram.com/dlrakdeniz/)
-
-#  Medium
-
-[<img src = "https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width = "100" height = "60" >](https://medium.com/@dilarakdeniz)
-
-##  Tech I Use
-
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width = "50" height = "50">
-<img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width = "50" height = "50">
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width = "50" height = "50">  
- <img src = "https://avatars.githubusercontent.com/u/1525981?s=200&v=4" width = "50" height = "50">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrakdenizz&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+</p>
