@@ -1,48 +1,60 @@
-#_merhaba_ben_dilara 👋
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ios_developer-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/ai_builder-555555?style=for-the-badge&logo=google-gemini&logoColor=white" />
-</p>
-
-[cite_start]Fikirleri Swift ile kodlara, hayalleri App Store'da yayında olan ürünlere dönüştürüyorum[cite: 9, 10]. [cite_start]Bilgisayar Mühendisliği geçmişimi, yapay zekanın sınırsız imkanlarıyla birleştirip modern mobil deneyimler tasarlamaya odaklıyım.
-
----
-
-###_şu_an_neler_inşa_ediyorum
-
-* **AITunes:** Yapay zeka ile müzik üretiminin mobil hali.
-* **Foton AI:** AI tabanlı fotoğraf nesli ve görüntü işleme dünyası.
-* [cite_start]**[ChatAI](https://apps.apple.com/tr/app/chatai-chat-with-ai-experts/id6749398918):** Gemini 2.0 tabanlı, 34 farklı uzman yapay zeka karakteriyle sohbet deneyimi[cite: 65, 67, 73].
-
----
-
-###_teknoloji_mutfağım
-
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=swift,apple,firebase,graphql,git,github,figma" /></a>
-</p>
-
-> [cite_start]**stack_focus:** Swift, SwiftUI, Combine, SwiftData, Core Animation[cite: 10, 62, 64].
-
----
-
-###_akademi_ve_vizyon
-
-[cite_start]Mühendislik eğitimimi **bölüm üçüncüsü** olarak tamamladım; bu disiplini TÜBİTAK destekli projelerde liderlik yaparak pratik bir vizyona dönüştürdüm[cite: 8, 49, 74, 76]. [cite_start]Temiz kod (SOLID) ve sürdürülebilir mimariler (MVVM) vazgeçilmezim.
-
----
-
-###_bağlantıda_kalalım
-
-<p align="left">
-<a href="https://www.linkedin.com/in/dilarakdeniz/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@dilarakdeniz"><img src="https://img.shields.io/badge/medium-000000?style=flat&logo=medium&logoColor=white" /></a>
-<a href="mailto:dilarakdeniz15013@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br />
+<h1 align ="middle">#_selam_ben_dilara 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrakdenizz&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img src="https://raw.githubusercontent.com/dlrakdenizz/dlrakdenizz/main/profile.png" width="160" height="160" style="border-radius: 50%; border: 3px solid #007AFF;">
+</p>
+
+<p align="center">
+  🪐 <b>iOS Developer & AI Enthusiast</b> 🪐
+</p>
+
+<p align="center">
+  Fikirleri Swift ile kodlara, hayalleri App Store'da yayında olan ürünlere dönüştürüyorum. <br>
+  Bilgisayar Mühendisliği disiplinini, yapay zekanın sınırsız imkanlarıyla birleştiriyorum.
+</p>
+
+---
+
+### ##_hakkimda
+
+* 🎓 **Manisa Celal Bayar Üniversitesi** Bilgisayar Mühendisliği bölümünden **3.67 GNO ile dönem üçüncüsü** olarak mezun oldum. * 📱 **Swift** ve **SwiftUI** odaklı, modern mimarilere (MVVM, Clean Architecture) sadık uygulamalar geliştiriyorum. * 🤖 **AI Photo Generation** ve **AI Music** projeleriyle üretken yapay zekayı mobile taşıyorum. * 🏆 **TÜBİTAK** projelerinde liderlik yaparak sosyal ve teknik etki yaratan çözümler ürettim. ---
+
+### ##_neler_yapiyorum
+
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+  <p>🚀 <b>ChatAI:</b> Gemini 2.0 tabanlı uzman chatbot platformu.</p>
+  <p>🎵 <b>AITunes:</b> Yapay zeka destekli müzik deneyimi.</p>
+  <p>📸 <b>Foton AI:</b> Yeni nesil fotoğraf oluşturma uygulaması.</p>
+</div>
+
+---
+
+### ##_teknoloji_mutfagim
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,apple,firebase,graphql,git,github,figma,postman" />
+  </a>
+</p>
+
+> **focus:** Combine, SwiftData, Core Animation, RevenueCat, Adapty. ---
+
+### ##_ulasin
+
+<p align="left">
+<a href="https://www.linkedin.com/in/dilarakdeniz/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+</a> 
+<a href="https://medium.com/@dilarakdeniz" target="_blank">
+  <img src="https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" height="35">
+</a>
+<a href="https://www.instagram.com/dlrakdeniz/" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35">
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrakdenizz&layout=compact&theme=tokyonight&hide_border=true&title_color=007AFF" />
 </p>
