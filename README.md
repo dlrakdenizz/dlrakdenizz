@@ -1,74 +1,30 @@
-#_merhaba_ben_dilara 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=iOS+Developer;Computer+Engineer;AI+Enthusiast;Swift+%26+SwiftUI+Specialist" alt="Typing SVG" />
-</p>
-
-###_hakkımda
-
-[cite_start]İstanbul doğumlu, Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği bölümünü **üçüncülükle** bitirmiş bir iOS geliştiriciyim. [cite: 7, 8, 49] [cite_start]Mobil uygulama dünyasına, özellikle Swift ve SwiftUI kullanarak modern, ölçeklenebilir ve kullanıcı odaklı çözümler üretmeye tutkuluyum. [cite: 9, 12, 17]
-
-* [cite_start]🚀 Şu an **AITunes** ve **Foton AI** gibi yapay zeka destekli projeler üzerinde çalışıyorum. [cite: 26]
-* [cite_start]🎓 TÜBİTAK 2209-B ve 1001 projelerinde liderlik ve geliştiricilik yaptım. [cite: 76, 80]
-* [cite_start]📱 App Store'da yayında olan **ChatAI** uygulamasının geliştiricisiyim. [cite: 73]
-* [cite_start]💡 Temiz kod (SOLID), MVVM ve Clean Architecture prensiplerini hayat felsefesi haline getirdim. [cite: 18, 22, 66]
-
----
-
-###_teknik_yetenekler
-
+<h1 align ="middle">Hi there 👋 I'm Dilara</h1>
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-1572B6?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Combine-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/CoreData-FFD600?style=for-the-badge&logo=apple&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+🪐 I'm currently developing iOS Apps with Swift 
 </p>
-
----
-
-###_projeler_ve_deneyim
-
-| Proje / Şirket | Rol | Teknoloji |
-| :--- | :--- | :--- |
-| **Univenn Startup Studio** | iOS Developer Intern | [cite_start]Swift, SwiftUI, GraphQL, RevenueCat [cite: 16, 17, 19] |
-| **ChatAI** | Lead Developer | [cite_start]Google Gemini AI, SwiftData, AdMob [cite: 66, 67, 68, 71] |
-| **Hamilelik Dostu** | Project Leader | [cite_start]TÜBİTAK 2209B, Firebase, MVVM [cite: 76, 78] |
-| **Tüm Türkçe** | iOS Developer | [cite_start]TÜBİTAK 1001, AVFoundation, Firebase [cite: 80, 82, 84] |
-
----
-
-###_github_istatistiklerim
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlrakdenizz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrakdenizz&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-###_iletişim_ve_linkler
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/dilarakdeniz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@dilarakdeniz" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:dilarakdeniz15013@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dilaraakdenizpersonalweb.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+🪐 Interested in Mobile UI Design
 </p>
+<br>
 
-<br />
-
-<p align="center"> 
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+<div style = "display: flex: flex-direction: row; justify-content: space-between"> 
+<p align="center">
 </p>
+<p align="center">
+ </p>
+
+# Contact Me
+  
+[<img src = "https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width = "60" height = "60" align="left" >](https://www.linkedin.com/in/dilara-akdeniz-596a44232/)
+[<img src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width = "60" height = "60" align="center">](https://www.instagram.com/dlrakdeniz/)
+
+#  Medium
+
+[<img src = "https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width = "100" height = "60" >](https://medium.com/@dilarakdeniz)
+
+##  Tech I Use
+
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width = "50" height = "50">
+<img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width = "50" height = "50">
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width = "50" height = "50">  
+ <img src = "https://avatars.githubusercontent.com/u/1525981?s=200&v=4" width = "50" height = "50">  
