@@ -1,60 +1,59 @@
-<h1 align ="middle">#_selam_ben_dilara 👋</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dlrakdenizz/dlrakdenizz/main/profile.png" width="160" height="160" style="border-radius: 50%; border: 3px solid #007AFF;">
-</p>
-
-<p align="center">
-  🪐 <b>iOS Developer & AI Enthusiast</b> 🪐
-</p>
-
-<p align="center">
-  Fikirleri Swift ile kodlara, hayalleri App Store'da yayında olan ürünlere dönüştürüyorum. <br>
-  Bilgisayar Mühendisliği disiplinini, yapay zekanın sınırsız imkanlarıyla birleştiriyorum.
-</p>
-
----
-
-### ##_hakkimda
-
-* 🎓 **Manisa Celal Bayar Üniversitesi** Bilgisayar Mühendisliği bölümünden **3.67 GNO ile dönem üçüncüsü** olarak mezun oldum. * 📱 **Swift** ve **SwiftUI** odaklı, modern mimarilere (MVVM, Clean Architecture) sadık uygulamalar geliştiriyorum. * 🤖 **AI Photo Generation** ve **AI Music** projeleriyle üretken yapay zekayı mobile taşıyorum. * 🏆 **TÜBİTAK** projelerinde liderlik yaparak sosyal ve teknik etki yaratan çözümler ürettim. ---
-
-### ##_neler_yapiyorum
-
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
-  <p>🚀 <b>ChatAI:</b> Gemini 2.0 tabanlı uzman chatbot platformu.</p>
-  <p>🎵 <b>AITunes:</b> Yapay zeka destekli müzik deneyimi.</p>
-  <p>📸 <b>Foton AI:</b> Yeni nesil fotoğraf oluşturma uygulaması.</p>
-</div>
-
----
-
-### ##_teknoloji_mutfagim
+<h1 align ="middle">Hi there 👋 I'm Dilara</h1>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,firebase,graphql,git,github,figma,postman" />
-  </a>
+
+🪐 I'm currently developing iOS Apps with Swift 
+
 </p>
-
-> **focus:** Combine, SwiftData, Core Animation, RevenueCat, Adapty. ---
-
-### ##_ulasin
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dilarakdeniz/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
-</a> 
-<a href="https://medium.com/@dilarakdeniz" target="_blank">
-  <img src="https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" height="35">
-</a>
-<a href="https://www.instagram.com/dlrakdeniz/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35">
-</a>
+
+🪐 Interested in Mobile UI Design
+
 </p>
 
----
+<br>
+
+
+
+<div style = "display: flex: flex-direction: row; justify-content: space-between"> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrakdenizz&layout=compact&theme=tokyonight&hide_border=true&title_color=007AFF" />
+
 </p>
+
+<p align="center">
+
+ </p>
+
+
+
+# Contact Me
+
+  
+
+[<img src = "https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width = "60" height = "60" align="left" >](https://www.linkedin.com/in/dilara-akdeniz-596a44232/)
+
+[<img src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width = "60" height = "60" align="center">](https://www.instagram.com/dlrakdeniz/)
+
+
+
+#  Medium
+
+
+
+[<img src = "https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width = "100" height = "60" >](https://medium.com/@dilarakdeniz)
+
+
+
+##  Tech I Use
+
+
+
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width = "50" height = "50">
+
+<img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width = "50" height = "50">
+
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width = "50" height = "50">  
+
+ <img src = "https://avatars.githubusercontent.com/u/1525981?s=200&v=4" width = "50" height = "50">  
