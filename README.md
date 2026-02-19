@@ -1,1 +1,62 @@
-<h1 align ="middle">Hi there 👋 I'm Dilara</h1> <p align="left"> 🪐 I'm currently developing iOS Apps with Swift </p> <p align="left"> 🪐 Interested in Mobile UI Design </p> <br> <div style = "display: flex: flex-direction: row; justify-content: space-between"> <p align="center"> </p> <p align="center"> </p> # Contact Me [<img src = "https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width = "60" height = "60" align="left" >](https://www.linkedin.com/in/dilara-akdeniz-596a44232/) [<img src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width = "60" height = "60" align="center">](https://www.instagram.com/dlrakdeniz/) # Medium [<img src = "https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width = "100" height = "60" >](https://medium.com/@dilarakdeniz) ## Tech I Use <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width = "50" height = "50"> <img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width = "50" height = "50"> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width = "50" height = "50"> <img src = "https://avatars.githubusercontent.com/u/1525981?s=200&v=4" width = "50" height = "50">
+# hi_there_im_dilara 👋
+
+### results_driven_ios_developer
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dlrakdenizz&label=Profile%20views&color=0e75b6&style=flat" alt="dlrakdenizz" />
+</p>
+
+[cite_start]3 yılı aşkın süredir Swift ve SwiftUI ekosisteminde çalışan, Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği bölümünden **3.lükle** mezun olmuş bir **iOS Geliştiriciyim.** [cite: 5, 35] [cite_start]Şu anda **InsightTech** bünyesinde yapay zeka destekli mobil uygulamalar geliştiriyorum. [cite: 9, 10]
+
+---
+
+## about_me
+
+* [cite_start]🚀 **InsightTech**'te AlTunes ve FotonAI gibi global projelerin uçtan uca geliştirme süreçlerini yönetiyorum. [cite: 9, 10]
+* [cite_start]🏗️ **MVI, MVVM** ve **Clean Architecture** prensiplerini kullanarak ölçeklenebilir çözümler üretiyorum. [cite: 7, 12]
+* [cite_start]🎓 Bölüm üçüncüsü ve Yüksek Onur Belgesi sahibi bir bilgisayar mühendisiyim. [cite: 82, 84]
+* [cite_start]💡 Yapay zeka entegrasyonu, abonelik sistemleri (RevenueCat) ve performans optimizasyonu konularında deneyimliyim. [cite: 13, 14, 21]
+
+---
+
+## tech_stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+* [cite_start]**Architecture:** MVI, MVVM, Clean Architecture, Repository Pattern [cite: 7, 12, 18, 44]
+* [cite_start]**Monetization:** RevenueCat, Adapty, AdMob [cite: 13, 19, 46]
+* [cite_start]**Tools & DB:** Firebase, SwiftData, CoreData, Git, GitHub [cite: 11, 45, 72]
+
+---
+
+## featured_projects
+
+* [cite_start]**[ChatAI - AI Chat Platform](https://apps.apple.com/tr/app/chatai-chat-with-ai-experts/id6749398918?l=tr):** Google Gemini 2.0 entegrasyonuna sahip, 34 uzman asistanlı iOS uygulaması. [cite: 43, 44, 45]
+* [cite_start]**TÜBİTAK 2209-B Project:** Anne adayları için geliştirilmiş, proje liderliğini yürüttüğüm sağlık ve sosyal destek platformu. [cite: 49, 50, 51]
+* [cite_start]**Innomath (Teknofest 2023):** Görme ve işitme engelli öğrenciler için erişilebilirlik odaklı matematik uygulaması. [cite: 69, 70, 71]
+
+---
+
+## github_stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dlrakdenizz&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlrakdenizz&theme=tokyonight" />
+</p>
+
+---
+
+## connect_with_me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/dilarakdeniz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dilara Akdeniz" height="30" width="40" /></a>
+<a href="https://medium.com/@dilarakdeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dilarakdeniz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dlrakdeniz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dlrakdeniz" height="30" width="40" /></a>
+</p>
