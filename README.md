@@ -54,5 +54,4 @@ Bilgisayar Mühendisi ve <b>InsightTech</b> bünyesinde <b>iOS Geliştirici</b> 
 <p align="left">
 <a href="https://www.linkedin.com/in/dilarakdeniz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dilara Akdeniz" height="30" width="40" /></a>
 <a href="https://medium.com/@dilarakdeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dilarakdeniz" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dlrakdeniz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dlrakdeniz" height="30" width="40" /></a>
 </p>
