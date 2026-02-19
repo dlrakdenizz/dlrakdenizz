@@ -1,22 +1,18 @@
 <h1 align="center">hi_there_im_dilara 👋</h1>
-<h3 align="center">results_driven_ios_developer</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dlrakdenizz&label=Profile%20views&color=0e75b6&style=flat" alt="dlrakdenizz" />
-</p>
+<h3 align="center">ios_application_developer</h3>
 
 <p align="center">
-3 yılı aşkın süredir Swift ve SwiftUI ekosisteminde çalışan, Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği bölümünden <b>3.lükle</b> mezun olmuş bir <b>iOS Geliştiriciyim.</b> Şu anda <b>InsightTech</b> bünyesinde yapay zeka destekli mobil uygulamalar geliştiriyorum.
+Bilgisayar Mühendisi ve <b>InsightTech</b> bünyesinde <b>iOS Geliştirici</b> olarak çalışıyorum. Swift ve SwiftUI ekosisteminde, özellikle yapay zeka entegrasyonlu modern mobil çözümler üzerine odaklanıyorum.
 </p>
 
 ---
 
 ## about_me
 
-* 🚀 **InsightTech**'te AlTunes ve FotonAI gibi global projelerin uçtan uca geliştirme süreçlerini yönetiyorum.
-* 🏗️ **MVI, MVVM** ve **Clean Architecture** prensiplerini kullanarak ölçeklenebilir çözümler üretiyorum.
-* 🎓 Bölüm üçüncüsü ve Yüksek Onur Belgesi sahibi bir bilgisayar mühendisiyim.
-* 💡 Yapay zeka entegrasyonu, abonelik sistemleri (RevenueCat) ve performans optimizasyonu konularında deneyimliyim.
+* 🚀 **InsightTech** bünyesinde AlTunes ve FotonAI gibi projelerin geliştirme süreçlerini yürütüyorum.
+* 🏗️ **MVI** ve **MVVM** mimarileri ile ölçeklenebilir ve sürdürülebilir uygulamalar geliştiriyorum.
+* 💡 Yapay zeka servisleri, abonelik sistemleri (RevenueCat) ve kullanıcı deneyimi (UX) optimizasyonu konularında deneyimliyim.
+* 📱 UI tasarımlarını Apple'ın **Human Interface Guidelines** prensiplerine uygun olarak pixel-perfect kodlara dönüştürüyorum.
 
 ---
 
@@ -39,9 +35,9 @@
 
 ## featured_projects
 
-* **[ChatAI - AI Chat Platform](https://apps.apple.com/tr/app/chatai-chat-with-ai-experts/id6749398918?l=tr):** Google Gemini 2.0 entegrasyonuna sahip, 34 uzman asistanlı iOS uygulaması.
-* **health_social_support_platform:** Proje liderliğini yürüttüğüm, anne adayları için geliştirilen TÜBİTAK 2209-B projesi.
-* **innomath_teknofest_2023:** Görme ve işitme engelli öğrenciler için geliştirilmiş erişilebilirlik odaklı matematik uygulaması.
+* **[ChatAI - AI Chat Platform](https://apps.apple.com/tr/app/chatai-chat-with-ai-experts/id6749398918?l=tr):** Gemini 2.0 entegrasyonlu, 34 uzman asistanlı iOS uygulaması.
+* **altunes_ai_music:** Yapay zeka destekli müzik üretimi ve yönetimi odaklı mobil çözüm.
+* **foton_ai_generation:** Gelişmiş yapay zeka görsel üretim ve işleme platformu.
 
 ---
 
