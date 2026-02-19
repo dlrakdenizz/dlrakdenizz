@@ -2,17 +2,17 @@
 <h3 align="center">iOS Application Developer</h3>
 
 <p align="center">
-Bilgisayar Mühendisi ve <b>InsightTech</b> bünyesinde <b>iOS Geliştirici</b> olarak çalışıyorum. [cite_start]Swift ve SwiftUI ekosisteminde, özellikle yapay zeka entegrasyonlu modern mobil çözümler üzerine odaklanıyorum. [cite: 1, 5, 9]
+Bilgisayar Mühendisi ve <b>InsightTech</b> bünyesinde <b>iOS Geliştirici</b> olarak çalışıyorum. Swift ve SwiftUI ekosisteminde, özellikle yapay zeka entegrasyonlu modern mobil çözümler üzerine odaklanıyorum.
 </p>
 
 ---
 
 ## About Me
 
-* [cite_start]🚀 **InsightTech** bünyesinde AlTunes ve FotonAI gibi global projelerin geliştirme süreçlerini yürütüyorum. [cite: 9, 10]
-* [cite_start]🏗️ **MVI** ve **MVVM** mimarileri ile ölçeklenebilir ve sürdürülebilir uygulamalar geliştiriyorum. [cite: 7, 12]
-* [cite_start]💡 Yapay zeka servisleri, abonelik sistemleri (RevenueCat) ve kullanıcı deneyimi (UX) optimizasyonu konularında deneyimliyim. [cite: 13, 21]
-* [cite_start]📱 UI tasarımlarını Apple'ın **Human Interface Guidelines** prensiplerine uygun olarak pixel-perfect kodlara dönüştürüyorum. [cite: 15]
+* 🚀 **InsightTech** bünyesinde AlTunes ve FotonAI gibi projelerin geliştirme süreçlerini yürütüyorum.
+* 🏗️ **MVI** ve **MVVM** mimarileri ile ölçeklenebilir ve sürdürülebilir uygulamalar geliştiriyorum.
+* 💡 Yapay zeka servisleri, abonelik sistemleri (RevenueCat) ve kullanıcı deneyimi (UX) optimizasyonu konularında deneyimliyim.
+* 📱 UI tasarımlarını Apple'ın **Human Interface Guidelines** prensiplerine uygun olarak pixel-perfect kodlara dönüştürüyorum.
 
 ---
 
@@ -27,17 +27,17 @@ Bilgisayar Mühendisi ve <b>InsightTech</b> bünyesinde <b>iOS Geliştirici</b> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-* [cite_start]**Architecture:** MVI, MVVM, Clean Architecture, Repository Pattern [cite: 7, 18, 44]
-* [cite_start]**Monetization:** RevenueCat, Adapty, AdMob [cite: 13, 19, 46]
-* [cite_start]**Tools & DB:** Firebase, SwiftData, CoreData, Git, GitHub [cite: 11, 45, 72]
+* **Architecture:** MVI, MVVM, Clean Architecture, Repository Pattern
+* **Monetization:** RevenueCat, Adapty, AdMob
+* **Tools & DB:** Firebase, SwiftData, CoreData, Git, GitHub
 
 ---
 
 ## Featured Projects
 
-* [cite_start]**[ChatAI - AI Chat Platform](https://apps.apple.com/tr/app/chatai-chat-with-ai-experts/id6749398918?l=tr):** Gemini 2.0 entegrasyonlu, 34 uzman asistanlı iOS uygulaması. [cite: 43, 45]
-* [cite_start]**AlTunes AI Music:** Yapay zeka destekli müzik üretimi ve yönetimi odaklı mobil çözüm. [cite: 10]
-* [cite_start]**Foton AI Generation:** Gelişmiş yapay zeka görsel üretim ve işleme platformu. [cite: 10]
+* **[ChatAI - AI Chat Platform](https://apps.apple.com/tr/app/chatai-chat-with-ai-experts/id6749398918?l=tr):** Gemini 2.0 entegrasyonlu, 34 uzman asistanlı iOS uygulaması.
+* **AlTunes AI Music:** Yapay zeka destekli müzik üretimi ve yönetimi odaklı mobil çözüm.
+* **Foton AI Generation:** Gelişmiş yapay zeka görsel üretim ve işleme platformu.
 
 ---
 
