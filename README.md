@@ -1,21 +1,22 @@
-**# hi_there_im_dilara 👋
+<h1 align="center">hi_there_im_dilara 👋</h1>
+<h3 align="center">results_driven_ios_developer</h3>
 
-### results_driven_ios_developer
-
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dlrakdenizz&label=Profile%20views&color=0e75b6&style=flat" alt="dlrakdenizz" />
 </p>
 
-[cite_start]3 yılı aşkın süredir Swift ve SwiftUI ekosisteminde çalışan, Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği bölümünden **3.lükle** mezun olmuş bir **iOS Geliştiriciyim.** [cite: 5, 35] [cite_start]Şu anda **InsightTech** bünyesinde yapay zeka destekli mobil uygulamalar geliştiriyorum. [cite: 9, 10]
+<p align="center">
+3 yılı aşkın süredir Swift ve SwiftUI ekosisteminde çalışan, Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliği bölümünden <b>3.lükle</b> mezun olmuş bir <b>iOS Geliştiriciyim.</b> Şu anda <b>InsightTech</b> bünyesinde yapay zeka destekli mobil uygulamalar geliştiriyorum.
+</p>
 
 ---
 
 ## about_me
 
-* [cite_start]🚀 **InsightTech**'te AlTunes ve FotonAI gibi global projelerin uçtan uca geliştirme süreçlerini yönetiyorum. [cite: 9, 10]
-* [cite_start]🏗️ **MVI, MVVM** ve **Clean Architecture** prensiplerini kullanarak ölçeklenebilir çözümler üretiyorum. [cite: 7, 12]
-* [cite_start]🎓 Bölüm üçüncüsü ve Yüksek Onur Belgesi sahibi bir bilgisayar mühendisiyim. [cite: 82, 84]
-* [cite_start]💡 Yapay zeka entegrasyonu, abonelik sistemleri (RevenueCat) ve performans optimizasyonu konularında deneyimliyim. [cite: 13, 14, 21]
+* 🚀 **InsightTech**'te AlTunes ve FotonAI gibi global projelerin uçtan uca geliştirme süreçlerini yönetiyorum.
+* 🏗️ **MVI, MVVM** ve **Clean Architecture** prensiplerini kullanarak ölçeklenebilir çözümler üretiyorum.
+* 🎓 Bölüm üçüncüsü ve Yüksek Onur Belgesi sahibi bir bilgisayar mühendisiyim.
+* 💡 Yapay zeka entegrasyonu, abonelik sistemleri (RevenueCat) ve performans optimizasyonu konularında deneyimliyim.
 
 ---
 
@@ -30,17 +31,17 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-* [cite_start]**Architecture:** MVI, MVVM, Clean Architecture, Repository Pattern [cite: 7, 12, 18, 44]
-* [cite_start]**Monetization:** RevenueCat, Adapty, AdMob [cite: 13, 19, 46]
-* [cite_start]**Tools & DB:** Firebase, SwiftData, CoreData, Git, GitHub [cite: 11, 45, 72]
+* **architecture:** MVI, MVVM, Clean Architecture, Repository Pattern
+* **monetization:** RevenueCat, Adapty, AdMob
+* **tools_db:** Firebase, SwiftData, CoreData, Git, GitHub
 
 ---
 
 ## featured_projects
 
-* [cite_start]**[ChatAI - AI Chat Platform](https://apps.apple.com/tr/app/chatai-chat-with-ai-experts/id6749398918?l=tr):** Google Gemini 2.0 entegrasyonuna sahip, 34 uzman asistanlı iOS uygulaması. [cite: 43, 44, 45]
-* [cite_start]**TÜBİTAK 2209-B Project:** Anne adayları için geliştirilmiş, proje liderliğini yürüttüğüm sağlık ve sosyal destek platformu. [cite: 49, 50, 51]
-* [cite_start]**Innomath (Teknofest 2023):** Görme ve işitme engelli öğrenciler için erişilebilirlik odaklı matematik uygulaması. [cite: 69, 70, 71]
+* **[ChatAI - AI Chat Platform](https://apps.apple.com/tr/app/chatai-chat-with-ai-experts/id6749398918?l=tr):** Google Gemini 2.0 entegrasyonuna sahip, 34 uzman asistanlı iOS uygulaması.
+* **health_social_support_platform:** Proje liderliğini yürüttüğüm, anne adayları için geliştirilen TÜBİTAK 2209-B projesi.
+* **innomath_teknofest_2023:** Görme ve işitme engelli öğrenciler için geliştirilmiş erişilebilirlik odaklı matematik uygulaması.
 
 ---
 
@@ -60,4 +61,3 @@
 <a href="https://medium.com/@dilarakdeniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dilarakdeniz" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dlrakdeniz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dlrakdeniz" height="30" width="40" /></a>
 </p>
-**
